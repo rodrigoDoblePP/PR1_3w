@@ -15,4 +15,4 @@ print (X + Y) #imprimo La Suma entre variables
 
 print (" ")
 
-![imagen](https://github.com/user-attachments/assets/bbf5d6e7-0fd8-46bf-874f-534a1fd25db4)
+![imagen](https://github.com/user-attachments/assets/4ced11ae-b51d-4c89-9764-4fff589e5b82)
